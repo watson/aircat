@@ -1,0 +1,41 @@
+{
+  "name": "aircat",
+  "version": "0.0.0",
+  "description": "AirPlay cat tool",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/watson/aircat.git"
+  },
+  "dependencies": {
+    "airplay-server": "^1.1.0",
+    "patterns": "^1.0.2",
+    "plist": "^1.1.0",
+    "raop-stub": "^1.0.1"
+  },
+  "devDependencies": {
+    "standard": "^5.2.1"
+  },
+  "scripts": {
+    "test": "standard"
+  },
+  "bin": {
+    "aircat": "./index.js"
+  },
+  "keywords": [
+    "airplay",
+    "cat",
+    "cli",
+    "photo",
+    "photos",
+    "transfer",
+    "utility"
+  ],
+  "author": "Thomas Watson Steen <w@tson.dk> (https://twitter.com/wa7son)",
+  "license": "MIT",
+  "preferGlobal": true,
+  "bugs": {
+    "url": "https://github.com/watson/aircat/issues"
+  },
+  "homepage": "https://github.com/watson/aircat#readme"
+}
