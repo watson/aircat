@@ -8,10 +8,7 @@
     "url": "git+https://github.com/watson/aircat.git"
   },
   "dependencies": {
-    "airplay-server": "^1.1.0",
-    "patterns": "^1.0.2",
-    "plist": "^1.1.0",
-    "raop-stub": "^1.0.1"
+    "airplay-photos": "^1.0.0"
   },
   "devDependencies": {
     "standard": "^5.2.1"
